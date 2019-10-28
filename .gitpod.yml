@@ -1,3 +1,2 @@
 tasks:
-  - init: npm install -g nodemon
-  - command: npm install
+  - init: npm install -g nodemon && npm install
