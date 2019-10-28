@@ -1,4 +1,3 @@
 tasks:
-  - command: echo ok
-  - command: echo ok2
-  - command: echo ok3
+  - init: npm install -g nodemon
+  - command: npm install
