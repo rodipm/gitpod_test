@@ -1,3 +1,4 @@
 tasks:
-  -command: echo ok2
-  -command: echo ok3
+  - command: echo ok
+  - command: echo ok2
+  - command: echo ok3
